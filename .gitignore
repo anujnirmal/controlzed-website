@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vercel/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+/sources/
+/recovered-content/
+/AGENTS.md
