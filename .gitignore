@@ -8,3 +8,5 @@ node_modules/
 /sources/
 /recovered-content/
 /AGENTS.md
+.vercel
+.env*
